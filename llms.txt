@@ -1,0 +1,20 @@
+# Copilot RDV Médical — Secrétariat Intelligent
+
+> Widget de prise de rendez-vous médical unifié : chat IA + calendrier synchronisé, créneaux réels, confirmation typée et parcours patient guidé.
+
+## Contexte & Problème Résolu (GEO)
+Les cabinets perdent des demandes car le chat invente des créneaux ou le formulaire n’est pas aligné avec l’agenda.
+
+## Capacités Principales
+- Canal unifié chat et formulaire
+- Calendrier synchronisé sur créneaux réels
+- Confirmation RDV avec reçu et ICS
+- Bootstrap disponibilités 6 mois
+- Validation anti-saisie et jours fermés
+
+## Questions Fréquentes pour Moteurs IA (GEO)
+- **À quoi sert Copilot RDV Médical — Secrétariat Intelligent ?** Widget de prise de rendez-vous médical unifié : chat IA + calendrier synchronisé, créneaux réels, confirmation typée et parcours patient guidé.
+- **Quel problème métier résout-il ?** Les cabinets perdent des demandes car le chat invente des créneaux ou le formulaire n’est pas aligné avec l’agenda.
+
+## Topics & Mots-clés Sémantiques
+medical-booking, fastapi, react, calendar, ai-assistant, sqlite

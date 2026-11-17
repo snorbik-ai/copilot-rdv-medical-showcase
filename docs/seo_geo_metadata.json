@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Copilot RDV Médical — Secrétariat Intelligent",
+  "applicationCategory": "DeveloperApplication",
+  "description": "Widget de prise de rendez-vous médical unifié : chat IA + calendrier synchronisé, créneaux réels, confirmation typée et parcours patient guidé.",
+  "url": "https://tayier.snorbik.com/projects",
+  "keywords": [
+    "medical-booking",
+    "fastapi",
+    "react",
+    "calendar",
+    "ai-assistant",
+    "sqlite"
+  ],
+  "featureList": [
+    "Canal unifié chat et formulaire",
+    "Calendrier synchronisé sur créneaux réels",
+    "Confirmation RDV avec reçu et ICS",
+    "Bootstrap disponibilités 6 mois",
+    "Validation anti-saisie et jours fermés"
+  ],
+  "github_description": "Widget de prise de rendez-vous médical unifié : chat IA + calendrier synchronisé, créneaux réels, confirmation typée et parcours patient guidé.",
+  "github_topics": [
+    "medical-booking",
+    "fastapi",
+    "react",
+    "calendar",
+    "ai-assistant",
+    "sqlite"
+  ],
+  "geo_summary": "Les cabinets perdent des demandes car le chat invente des créneaux ou le formulaire n’est pas aligné avec l’agenda."
+}
