@@ -1,91 +1,55 @@
-# Kits de Publication Multi-Canaux — Copilot RDV Médical (V6)
-
-Ce document rassemble les contenus éditoriaux officiels prêts pour diffusion externe (LinkedIn & YouTube), conformément aux standards d'ingénierie et de communication SNORBIK Studio : **Zéro Prix Brut, Zéro Sur-promesse, Zéro Fuite de Secret Technique, Focus Émotionnel, Résultat Humain & Accessibilité Universelle**.
+# Post LinkedIn Officiel — Copilot Médical V6 (Version Fusionnée Émotion & Évolution)
+## Synthèse Courte, Percutante, Accessible & Vision Futur (Zéro Fuite Technique)
 
 ---
 
-## 📱 1. Kit Publication LinkedIn V6 (Prêt à publier)
+### Texte du Post LinkedIn (Prêt à publier — Copier/Coller direct)
 
 ```text
-Prendre un rendez-vous médical en ligne ne devrait jamais être une épreuve de force.
+Prendre un rendez-vous médical ne devrait jamais être une épreuve de force.
 
-Pour une personne âgée, un patient en situation de handicap visuel ou moteur, ou simplement un parent épuisé en fin de journée, naviguer sur un portail web traditionnel ressemble trop souvent à un labyrinthe : des dizaines de menus déroulants, des formulaires à rallonge et des cases minuscules à cocher.
+Pour un patient senior, une personne en situation de handicap ou un aidant débordé, les portails web actuels ressemblent trop souvent à un labyrinthe de formulaires, de listes déroulantes et de cases minuscules.
+Et côté cabinet, les soignants passent des heures précieuses à cliquer sur des écrans au lieu d'échanger avec leurs patients.
 
-Et de l'autre côté du bureau, le constat est tout aussi lourd : nos médecins et soignants passent des heures chaque semaine les yeux rivés sur leur écran, à cliquer et ressaisir des plannings au lieu d'échanger avec leurs patients.
+Chez SNORBIK Studio, nous concevons une technologie qui s'efface pour remettre l'humain au centre.
 
-Chez SNORBIK Studio, nous pensons que la technologie doit s'effacer pour redonner toute sa place à l'humain.
+Avec notre Copilot Médical & Secrétariat 24/7, tout se règle désormais en 2 phrases naturelles, sans toucher au clavier :
 
-C’est la raison d’être de notre Copilot Médical & Secrétariat 24/7 :
-👉 Tout se règle désormais en 2 phrases naturelles, sans jamais toucher au clavier.
-
-Voici ce que cette approche change concrètement au quotidien :
-
-🗣️ 1. Une accessibilité universelle pour chaque patient
-Fini la barrière du clavier et des formulaires indigestes. Le patient énonce simplement son besoin :
+🗣️ 1. Accessibilité universelle pour le patient
+Le patient formule simplement son besoin, par écrit ou à la voix :
 « Bonjour, je cherche un créneau jeudi en fin d’après-midi pour un renouvellement de traitement. »
-L’assistant vocal et textuel comprend immédiatement l'intention, propose le bon créneau et confirme le rendez-vous. Une délivrance pour les patients seniors ou à mobilité réduite.
+L’assistant comprend l'intention, propose le bon créneau et confirme le rendez-vous. Une démarche fluide, bienveillante et accessible à tous.
 
-🩺 2. La fin de la servitude des écrans pour le praticien
-Le médecin n’a plus besoin de pianoter 15 fois entre deux consultations pour caler un rendez-vous ou une disponibilité. Quelques mots prononcés naturellement suffisent : le copilote prend la consigne, actualise l'agenda et gère les formalités sans friction.
+🩺 2. Sérénité et temps libéré pour le soignant
+Fini de pianoter 15 fois entre deux consultations pour caler un rendez-vous ou renseigner les formalités. L'accueil tourne 24h/24 sans interruption, dans le respect absolu du secret médical et de la vie privée.
 
-🔔 3. Des communications et rappels automatiques sans charge mentale
-Les consignes, les rappels de rendez-vous et les pièces à apporter (Carte Vitale, ordonnance, examens récents) sont transmis avec bienveillance et clarté. Moins de rendez-vous oubliés, zéro stress pour le secrétariat.
+🔮 Notre prochaine évolution : le mode « Praticien Mains Libres »
+Pourquoi un médecin devrait-il encore taper sur un clavier ?
+Bientôt, il suffira au praticien de dicter quelques mots naturels entre deux auscultations : « Planifie un contrôle pour Mme Martin mardi à 10h ». Le copilote enregistre le créneau, actualise le planning et prépare automatiquement le message de confirmation avec les consignes personnalisées, sans la moindre ressaisie.
 
-🔒 4. Confidentialité et respect absolu du secret médical
-Parce que la confiance est le socle du soin, chaque cabinet conserve la maîtrise totale de ses données. La sérénité du praticien et l'intimité du patient sont préservées au plus haut standard éthique.
-
-La vraie valeur de l'intelligence artificielle n'est pas d'ajouter des boutons et de la complexité. Elle est de faire disparaître la friction pour faire gagner un temps précieux à ceux qui soignent et à ceux qui ont besoin d'être soignés.
+La vraie valeur de l'intelligence artificielle n'est pas d'ajouter des boutons : elle est d'effacer la friction pour redonner du temps à la santé.
 
 Découvrez la démonstration vidéo de 30 secondes ci-dessous 👇
 
-Selon vous, la voix et le dialogue naturel sont-ils le meilleur moyen de rendre enfin les services de santé accessibles à tous ?
+👉 Praticiens, responsables de cabinets ou de cliniques : échangeons en message privé ou découvrez nos solutions sur https://snorbik.com
 
-#SanteNumerique #Accessibilite #SecretMedical #Medecine #Inclusion #TempsMedical #SnorbikAI #HealthTech #RelationPatient
-```
-
-### 💬 Premier Commentaire à Épingler (Règle algorithmique LinkedIn : Zéro lien dans le corps du post)
-
-```text
-👉 Vous êtes praticien, responsable d'un cabinet ou d'un établissement de santé et souhaitez libérer du temps médical tout en offrant un accueil accessible 24/7 à vos patients ?
-
-Échangeons avec grand plaisir en message privé sur LinkedIn ou découvrez notre démarche d'ingénierie sur https://snorbik.com
-
-(Vidéo de démonstration 30s réalisée et certifiée par notre studio — Version 6).
+#SanteNumerique #SecretMedical #Accessibilite #Medecine #Inclusion #TempsMedical #SnorbikStudio #HealthTech #RelationSoin
 ```
 
 ---
 
-## 🎬 2. Kit Publication YouTube Shorts / Vidéo Showcase V6
+### Premier Commentaire à Épingler (Optionnel ou pour relayer le lien)
 
-* **Titre (< 100 caractères) :**  
-  `Copilot Médical : Secrétariat Intelligent 24/7 & Accessibilité Vocale Sans Clavier | SNORBIK Studio`
-
-* **Description Vidéo :**
 ```text
-Découvrez le Copilot Médical & Secrétariat Intelligent 24/7 développé par SNORBIK Studio : prise de rendez-vous en langage naturel en 2 phrases, accueil vocal accessible à tous (seniors, handicap, aidants) et libération du temps médical pour les praticiens.
-
-⏱️ Durée exacte : 30 secondes (Parcours complet en conditions réelles)
-♿ Accessibilité : Dialogue vocal et textuel fluide, zéro manipulation de clavier requise
-🔒 Confidentialité : Secret médical préservé et respect strict de la vie privée
-🌐 Découvrir nos solutions & échanger avec le studio : https://snorbik.com
-
-Chapitres :
-00:00 - Introduction & Accueil Bienveillant
-00:02 - Prise de RDV en Direct : Dialogue vocal, Sélection du Créneau & Confirmation
-00:25 - Respect de la Confidentialité Médicale
-00:27 - SNORBIK Studio : Contact & Échange
-
-Tags : #CopilotMedical #SecretariatIA #SanteNumerique #SecretMedical #Accessibilite #Inclusion #SnorbikAI #HealthTech #TempsMedical #Medecine
+👉 Vous souhaitez tester le démonstrateur ou échanger sur l'accueil intelligent de vos patients ?
+Découvrez nos réalisations sur https://snorbik.com ou contactez directement SNORBIK Studio en message privé.
 ```
 
 ---
 
-## 📦 3. Répertoire des Actifs Multimédia Associés (Version 6)
-
-| Actif | Format & Résolution | Durée | Emplacement |
-| :--- | :--- | :--- | :--- |
-| **Spot Commercial 30s V6** | MP4 H.264 (1280x720) | **30.00s exactes** | `docs/assets/copilot_medical_commercial_30s_v6.mp4` |
-| **Teaser Loop 6s V6** | MP4 H.264 (1280x720) | **6.00s exactes** | `docs/assets/copilot_medical_preview_6s_v6.mp4` |
-| **Cinémagraphe GIF V6** | GIF animé Lanczos (800x450) | **30.00s (Boucle)** | `docs/assets/copilot_medical_v6.gif` |
-| **Bannière d'Accroche Praticien** | JPG (1920x1080) | Image fixe | `docs/assets/hero_commercial_doctor.jpg` |
-| **Miniature Vidéo** | JPG (1920x1080) | Image fixe | `docs/assets/thumbnail_showcase.jpg` |
+### Récapitulatif des 5 Invariants Respectés dans cette Version Fusionnée
+1. **Format Court & Aéré :** Lecture rapide en 45 secondes, chaque paragraphe fait 1 à 2 phrases.
+2. **Accessibilité & Inclusion :** Mise en avant des seniors et des personnes en situation de handicap (interaction vocale et textuelle sans clavier).
+3. **Évolution Praticien Mains Libres :** Présentation claire de la future fonctionnalité (dictée naturelle, zéro ressaisie) sans dévoiler le secret de fabrication algorithmique.
+4. **Zéro Fuite de Secret & Zéro Sur-promesse :** Aucune mention de base de données, de code interne, de framework ou d'architecture. Zéro prix brut.
+5. **Signature de Marque :** Intégration naturelle du lien officiel **https://snorbik.com** en clôture de post.
