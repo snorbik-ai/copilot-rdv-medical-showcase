@@ -1,10 +1,20 @@
 # 🏥 Copilot Médical 24/7 — Secrétariat Intelligent Souverain
 ### De vos outils existants à votre secrétariat médical autonome, déployé en 48 Heures par SNORBIK Studio
 
-![Miniature Copilot Médical 24/7](docs/assets/thumbnail_showcase.png)
+![Miniature HD Copilot Médical 24/7](docs/assets/thumbnail_hd.jpg)
 
 > **12 à 25 interruptions téléphoniques par jour en consultation : libérez votre temps médical.**  
 > **Copilot Médical 24/7** accueille vos patients à l'écrit et à la voix, synchronise vos disponibilités réelles sur 6 mois et confirme chaque rendez-vous avec reçu officiel et fichier calendrier `.ICS` — en totale conformité **RGPD Santé**.
+
+---
+
+## 🎬 Démonstration & Spot Publicitaire Officiel (V4)
+
+![Aperçu Animé Copilot Médical 24/7](docs/assets/copilot_medical_demo.gif)
+
+- ▶️ **Spot Publicitaire Commercial 30s (HD MP4) :** [copilot_medical_commercial_30s.mp4](docs/assets/copilot_medical_commercial_30s.mp4)
+- 🔁 **Boucle Teaser 6s (HD MP4) :** [copilot_medical_preview_6s.mp4](docs/assets/copilot_medical_preview_6s.mp4)
+- 📣 **Kits de Publication LinkedIn & YouTube Shorts :** [docs/PUBLICATIONS.md](docs/PUBLICATIONS.md)
 
 ---
 
@@ -44,6 +54,8 @@ Parce que le secret médical n'est pas négociable, **Copilot Médical 24/7** s'
 - **Protocole MCP Hybride Modulaire :** Connecteurs découplés pour l'agenda réel, l'envoi d'e-mails `.ICS` et la mémoire de session sécurisée.
 
 ---
+
+![SNORBIK Studio AI Product Factory — Déploiement 48 Heures](docs/assets/snorbik_studio_banner_48h.jpg)
 
 ## 🌐 Démonstration & Contact
 
