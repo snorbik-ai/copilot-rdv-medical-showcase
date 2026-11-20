@@ -31,3 +31,8 @@ __pycache__/
 .env.local
 .DS_Store
 Thumbs.db
+
+backend/
+frontend/
+data/
+mcp_servers/

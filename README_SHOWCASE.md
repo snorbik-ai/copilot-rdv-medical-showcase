@@ -8,7 +8,7 @@
 
 ---
 
-## 🎬 Démonstration & Spot Publicitaire Officiel (V4)
+## 🎬 Démonstration & Spot Publicitaire Officiel (V5)
 
 ![Aperçu Animé Copilot Médical 24/7](docs/assets/copilot_medical_demo.gif)
 
